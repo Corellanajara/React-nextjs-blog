@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Blog de vase, hecho en nextjs framework con react 
+
